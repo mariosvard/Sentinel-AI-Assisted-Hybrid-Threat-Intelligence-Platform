@@ -2,7 +2,7 @@
 
 <p align="center">
 
-**An interactive dashboard for AI-assisted Hybrid Threat Intelligence analysis**
+**An interactive AI-assisted platform for exploring and prioritizing hybrid threat intelligence signals.**
 
 <br><br>
 
